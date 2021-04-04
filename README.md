@@ -11,9 +11,9 @@ Well, acording to the GNU Project, bash (acronym for Bourne-Again Shell), is the
 
 ## Programs included
 * Text play aroud;
-  In this script, there is an interaction with the terminal, while it creates and edits a .txt file in your Desktop;
+  - In this script, there is an interaction with the terminal, while it creates and edits a .txt file in your Desktop;
 * Shutdown script
-  It simply shutsdown your computer, if you are to lazy to press the button or wants to feel like a hacker;
+  - It simply shutsdown your computer, if you are to lazy to press the button or wants to feel like a hacker;
   
   ## References
   GNU Operating System. (2020, September 22). "GNU Bash". _Free Software Foundation_. Retrieved from https://www.gnu.org/software/bash/.
